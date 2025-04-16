@@ -1,6 +1,6 @@
 # 2.2-MySQL-N1-N2-N3
 ## 📄Task description
-
+58 QUERIES SUBMITED
 ### Base de dades Tienda
 
 Tenim les taules producto i fabricador, cadascuna amb els següents camps:
